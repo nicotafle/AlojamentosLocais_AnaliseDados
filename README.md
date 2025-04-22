@@ -23,6 +23,11 @@ Jupyter Notebook (para exploração e visualização dos dados)
 
 ✅ Recuperação do setor pós-pandemia.
 
+### 📊 Dashboard
+
+Foi criado um Dashboard interativo com Tableau, o qual está no seguinte link:
+https://public.tableau.com/views/AlojamentosLocaisPT/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ▶️ Como Executar
 
 Clone o repositório:
